@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "balance": 150000,
+      "first_name": "Miguel",
+      "isActive": true,
+      "last_name": "Posada",
+      "id": 1
+    }
+  ]
+}

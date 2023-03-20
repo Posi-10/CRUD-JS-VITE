@@ -1,0 +1,22 @@
+table {
+  background-color: rgba(0, 0, 0, 0.637);
+  border-radius: 5px;
+  padding: 10px;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: rgba(255, 255, 255, 0.63);
+  color: rgba(0, 0, 0, 0.637);
+}
+
+th, td, tr{
+  border-bottom: 2px solid rgba(255,255,255,.60);
+  padding: 10px;
+  margin: 10px;
+}
+
+tr:hover {
+  background-color: rgba(255, 255, 255, .70);
+  color: rgba(0, 0, 0, 0.637);
+}
